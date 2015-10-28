@@ -1,54 +1,27 @@
-2015-10-28 00:28:07,204 - INFO - Starting Message Broker Service
-2015-10-28 00:28:07,204 - INFO - publisher 1  , Publishing a message : Message 1 in topic :  Politics
-2015-10-28 00:28:07,204 - INFO - Message received by queue :  Message 1;Politics
-2015-10-28 00:28:07,204 - INFO - publisher 1  , Publishing a message : Message 2 in topic :  Sports
-2015-10-28 00:28:07,204 - INFO - Message received by queue :  Message 2;Sports
-2015-10-28 00:28:07,204 - INFO - publisher 1  , Publishing a message : Message 4 in topic :  Politics
-2015-10-28 00:28:07,204 - INFO - Message received by queue :  Message 4;Politics
-2015-10-28 00:28:07,204 - INFO - publisher 1  , Publishing a message : Message 5 in topic :  Politics
-2015-10-28 00:28:07,204 - INFO - Message received by queue :  Message 5;Politics
-2015-10-28 00:28:07,204 - INFO - publisher 1  , Publishing a message : Message 7 in topic :  Politics
-2015-10-28 00:28:07,204 - INFO - Message received by queue :  Message 7;Politics
-2015-10-28 00:28:07,204 - INFO - subscriber 1  , Received a message : Message 1
-2015-10-28 00:28:07,204 - INFO - subscriber 2  , Received a message : Message 1
-2015-10-28 00:28:07,205 - INFO - subscriber 3  , Received a message : Message 1
-2015-10-28 00:28:07,205 - INFO - subscriber 1  , Received a message : Message 2
-2015-10-28 00:28:07,205 - INFO - subscriber 2  , Received a message : Message 2
-2015-10-28 00:28:07,205 - INFO - subscriber 1  , Received a message : Message 4
-2015-10-28 00:28:07,205 - INFO - subscriber 2  , Received a message : Message 4
-2015-10-28 00:28:07,205 - INFO - subscriber 3  , Received a message : Message 4
-2015-10-28 00:28:07,205 - INFO - subscriber 1  , Received a message : Message 5
-2015-10-28 00:28:07,205 - INFO - subscriber 2  , Received a message : Message 5
-2015-10-28 00:28:07,205 - INFO - subscriber 3  , Received a message : Message 5
-2015-10-28 00:28:07,205 - INFO - subscriber 1  , Received a message : Message 7
-2015-10-28 00:28:07,205 - INFO - subscriber 2  , Received a message : Message 7
-2015-10-28 00:28:07,205 - INFO - subscriber 3  , Received a message : Message 7
-2015-10-28 00:28:07,205 - INFO - subscriber 3  , Received a message : Message 1...Message 4...Message 5...Message 7...
-2015-10-28 00:28:07,205 - INFO - Ending Message Broker Service
-2015-10-28 00:36:14,004 - INFO - Starting Message Broker Service
-2015-10-28 00:36:14,004 - INFO - publisher 1  , Publishing a message : Message 1 in topic :  Politics
-2015-10-28 00:36:14,004 - INFO - Message received by queue :  Message 1;Politics
-2015-10-28 00:36:14,004 - INFO - publisher 1  , Publishing a message : Message 2 in topic :  Sports
-2015-10-28 00:36:14,004 - INFO - Message received by queue :  Message 2;Sports
-2015-10-28 00:36:14,004 - INFO - publisher 1  , Publishing a message : Message 4 in topic :  Politics
-2015-10-28 00:36:14,004 - INFO - Message received by queue :  Message 4;Politics
-2015-10-28 00:36:14,004 - INFO - publisher 1  , Publishing a message : Message 5 in topic :  Politics
-2015-10-28 00:36:14,004 - INFO - Message received by queue :  Message 5;Politics
-2015-10-28 00:36:14,004 - INFO - publisher 1  , Publishing a message : Message 7 in topic :  Politics
-2015-10-28 00:36:14,004 - INFO - Message received by queue :  Message 7;Politics
-2015-10-28 00:36:14,004 - INFO - subscriber 1  , Received a message : Message 1
-2015-10-28 00:36:14,005 - INFO - subscriber 2  , Received a message : Message 1
-2015-10-28 00:36:14,005 - INFO - subscriber 3  , Received a message : Message 1
-2015-10-28 00:36:14,005 - INFO - subscriber 1  , Received a message : Message 2
-2015-10-28 00:36:14,005 - INFO - subscriber 2  , Received a message : Message 2
-2015-10-28 00:36:14,005 - INFO - subscriber 1  , Received a message : Message 4
-2015-10-28 00:36:14,005 - INFO - subscriber 2  , Received a message : Message 4
-2015-10-28 00:36:14,005 - INFO - subscriber 3  , Received a message : Message 4
-2015-10-28 00:36:14,005 - INFO - subscriber 1  , Received a message : Message 5
-2015-10-28 00:36:14,005 - INFO - subscriber 2  , Received a message : Message 5
-2015-10-28 00:36:14,005 - INFO - subscriber 3  , Received a message : Message 5
-2015-10-28 00:36:14,005 - INFO - subscriber 1  , Received a message : Message 7
-2015-10-28 00:36:14,005 - INFO - subscriber 2  , Received a message : Message 7
-2015-10-28 00:36:14,005 - INFO - subscriber 3  , Received a message : Message 7
-2015-10-28 00:36:14,005 - INFO - subscriber 3  , Received a message : Message 1...Message 4...Message 5...Message 7...
-2015-10-28 00:36:14,005 - INFO - Ending Message Broker Service
+2015-10-28 01:25:56,723 - INFO - Starting Message Broker Service
+2015-10-28 01:25:56,723 - INFO - publisher 1  , Publishing a message : Message 1 in topic :  Politics
+2015-10-28 01:25:56,723 - INFO - Message received by queue :  Message 1;Politics
+2015-10-28 01:25:56,723 - INFO - publisher 1  , Publishing a message : Message 2 in topic :  Sports
+2015-10-28 01:25:56,724 - INFO - Message received by queue :  Message 2;Sports
+2015-10-28 01:25:56,724 - INFO - publisher 1  , Publishing a message : Message 4 in topic :  Politics
+2015-10-28 01:25:56,724 - INFO - Message received by queue :  Message 4;Politics
+2015-10-28 01:25:56,724 - INFO - publisher 1  , Publishing a message : Message 5 in topic :  Politics
+2015-10-28 01:25:56,724 - INFO - Message received by queue :  Message 5;Politics
+2015-10-28 01:25:56,724 - INFO - publisher 1  , Publishing a message : Message 7 in topic :  Politics
+2015-10-28 01:25:56,724 - INFO - Message received by queue :  Message 7;Politics
+2015-10-28 01:25:56,724 - INFO - subscriber 1  , Received a message : Message 1
+2015-10-28 01:25:56,724 - INFO - subscriber 2  , Received a message : Message 1
+2015-10-28 01:25:56,724 - INFO - subscriber 3  , Received a message : Message 1
+2015-10-28 01:25:56,724 - INFO - subscriber 1  , Received a message : Message 2
+2015-10-28 01:25:56,724 - INFO - subscriber 2  , Received a message : Message 2
+2015-10-28 01:25:56,724 - INFO - subscriber 1  , Received a message : Message 4
+2015-10-28 01:25:56,724 - INFO - subscriber 2  , Received a message : Message 4
+2015-10-28 01:25:56,724 - INFO - subscriber 3  , Received a message : Message 4
+2015-10-28 01:25:56,724 - INFO - subscriber 1  , Received a message : Message 5
+2015-10-28 01:25:56,724 - INFO - subscriber 2  , Received a message : Message 5
+2015-10-28 01:25:56,724 - INFO - subscriber 3  , Received a message : Message 5
+2015-10-28 01:25:56,724 - INFO - subscriber 1  , Received a message : Message 7
+2015-10-28 01:25:56,724 - INFO - subscriber 2  , Received a message : Message 7
+2015-10-28 01:25:56,725 - INFO - subscriber 3  , Received a message : Message 7
+2015-10-28 01:25:56,725 - INFO - subscriber 3  , Received a message : Message 1...Message 4...Message 5...Message 7...
+2015-10-28 01:25:56,725 - INFO - Ending Message Broker Service
