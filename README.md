@@ -15,3 +15,14 @@ However, since this is not a network-based implementation, and no addresses are 
 subscribers know about the broker using a broker instance available with them, instead of an IP address here.
 Similarly, the broker has an instance of subscribers with itself to send appropriate messages to subscribers instead of their
 IP addresses.
+
+# Design Philosophy
+
+Broker is a component / class which has the resources for message queue and subscriber-topic mapping.
+It also has methods to add subscriber to a topic subscription list, cleaning messages, accepting messages from publishers, for aggregatation of messages upon request of subscribers and to finally send the appropriate messages to subscribers who subscribed to that given topic.
+
+Publisher component / class has a Broker instance that it uses to pass along messages to the broker along with methods to publish these messages to the queue.
+
+Subscriber component / class again has a broker instance that it uses to register itself with topics and request aggregation of messages for a given topic. Also it has a callback method used as an event on receipt of a new message from the broker.
+
+These are 3 loosely conneced components, publishers and subscribers are aware of only the message queue in between and are unaware of each other's existence.
