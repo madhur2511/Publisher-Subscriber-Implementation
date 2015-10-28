@@ -125,6 +125,9 @@ class Subscriber:
 
 
 def main():
+    """ A scenario is played in the main method to test/exemplify the working of this implementation.
+    Logs are written to a separate file upon executing this code named, pub_sub.log using logger module in python"""
+
     logger.info("Starting Message Broker Service")
 
     broker = Broker()
@@ -155,6 +158,8 @@ def main():
 
 
 if __name__ == "__main__":
+    # Setting logging parameters to record log in a given file in same directory as main file with INFO level
+
     logger = logging.getLogger(__name__)
     file_handler = logging.FileHandler('pub_sub.log')
     formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
